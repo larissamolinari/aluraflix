@@ -1,13 +1,13 @@
 body {
-background-color: pink;
+background-color: rgb(252, 213, 220);
 color: white;
 margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px rgb(250, 166, 205);
+    border-bottom: solid 2px rgb(246, 161, 201);
     padding: 20px;
     font-size: 32px;
-    color: rgb(235, 206, 221);
+    color: rgba(251, 246, 249, 0.024);
 }
 
